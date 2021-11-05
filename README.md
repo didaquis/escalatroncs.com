@@ -2,5 +2,5 @@
 
 This repo is a complete copy of all content.
 
-Scrapped with: Cyotek WebCopy
+The web scraping was made with "Cyotek WebCopy"
 
